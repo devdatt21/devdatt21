@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @devdatt21
-- 👀 I’m interested in java,python,php,data science,data analysis,data vizualisation.
-- 🌱 I’m currently learning php,java,python
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me : (just don't).
+- 👀 I’m interested in Problem Solving.
+- 🌱 I’m currently learning DSA and Software Development.
+- 💞️ I’m looking to collaborate on Cool Things.
+- 📫 How to reach me : devdattrupapara21@gmail.com
 
 <!---
 devdatt21/devdatt21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
