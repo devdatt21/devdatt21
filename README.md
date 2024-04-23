@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devdatt21
+- 👋 Hi, I’m Devdatt Rupapara
 - 👀 I’m interested in Problem Solving.
 - 🌱 I’m currently learning DSA and Software Development.
 - 💞️ I’m looking to collaborate on Cool Things.
